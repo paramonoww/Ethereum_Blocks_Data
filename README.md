@@ -3,9 +3,9 @@ This repository contains the data about all Ethereum Blocks (latest update: sept
 
 There's a combined data for ALL Ethereum blocks, and also the data split by years.
 
-`block_number` - the serial number of the block
+`block_number` - the serial number of the block;
 
-`block_timestamp` - time when the block was produced
+`block_timestamp` - time when the block was produced;
 
 `transactions_count` - amount of transactions in the block
 
