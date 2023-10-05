@@ -31,4 +31,7 @@ This repository contains the data about all Ethereum Blocks (latest update: sept
 
 `size` - block size (determined by gas' limits)
 
-**If you have any questions/suggestions, reach me out on t.me/paramonoww or x.com/paramonoww. :)**
+**If you have any questions/suggestions, reach me out on:**
+[t.me/paramonoww](t.me/paramonoww)
+[x.com/paramonoww](x.com/paramonoww)
+
