@@ -1,17 +1,8 @@
 # Ethereum Blocks Data
 This repository contains the data about all Ethereum Blocks (latest update: september 2023). There's a combined data for ALL Ethereum blocks, and also the data split by years.
 
-| column | description |
-| Product 1 | Company 1 |
-| Product 2 | Company 2 |
-| Product 3 | Company 3 |
-
-
-
-
-`block_number` - the serial number of the block;
-
-`block_timestamp` - time when the block was produced;
+* `block_number` - the serial number of the block;
+* `block_timestamp` - time when the block was produced;
 
 `transactions_count` - amount of transactions in the block
 
