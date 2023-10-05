@@ -1,5 +1,7 @@
 # Ethereum Blocks Data
-This repository contains the data about all Ethereum Blocks (latest update: september 2023). There's a combined data for ALL Ethereum blocks, and also the data split by years.
+This repository contains the data about all Ethereum Blocks in `.csv` format (latest update: september 2023).
+You can download the data itself here - [google drive link](https://drive.google.com/drive/folders/1QeHPGA3rVfBDUMsUSyyJn4daLQGyabUO?usp=sharing) (i'm too lazy to install Git Large File Storage)
+
 
 * `block_number` - the serial number of the block;
 * `block_timestamp` - time when the block was produced;
@@ -18,7 +20,6 @@ This repository contains the data about all Ethereum Blocks (latest update: sept
 * `size` - block size (determined by gas' limits)
 
 **If you have any questions/suggestions, reach me out on:**
-[t.me/paramonoww](https://t.me/paramonoww)
-
-[x.com/paramonoww](https://twitter.com/paramonoww)
+* [t.me/paramonoww](https://t.me/paramonoww)
+* [x.com/paramonoww](https://twitter.com/paramonoww)
 
