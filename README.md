@@ -33,4 +33,4 @@ There's a combined data for ALL Ethereum blocks, and also the data split by year
 
 `size` - block size (determined by gas' limits)
 
-If you have any questions/suggestions, reach me out on t.me/paramonoww or x.com/paramonoww. :)
+**If you have any questions/suggestions, reach me out on t.me/paramonoww or x.com/paramonoww. :)**
