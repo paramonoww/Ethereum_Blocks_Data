@@ -1,5 +1,7 @@
 # Ethereum Blocks Data
-This repository contains the data about all Ethereum Blocks in `.csv` format (latest update: september 2023).
+***This repository contains the data about all Ethereum Blocks in `.csv` format (latest update: september 2023).***
+
+
 You can download the data itself here - [google drive link](https://drive.google.com/drive/folders/1QeHPGA3rVfBDUMsUSyyJn4daLQGyabUO?usp=sharing) (i'm too lazy to install Git Large File Storage)
 
 
