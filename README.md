@@ -34,5 +34,5 @@ This repository contains the data about all Ethereum Blocks (latest update: sept
 **If you have any questions/suggestions, reach me out on:**
 [t.me/paramonoww](https://t.me/paramonoww)
 
-[x.com/paramonoww](x.com/paramonoww)
+[x.com/paramonoww](https://twitter.com/paramonoww)
 
